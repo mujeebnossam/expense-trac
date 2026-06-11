@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A full-featured personal finance hub with AI-powered receipt scanning and interactive budget visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
